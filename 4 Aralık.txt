@@ -1,0 +1,6 @@
+rulmanlı konstrüksyon örneklerine bak
+Fr,Fe
+28+3+30
+kama 22 30 40
+mil 4
+45

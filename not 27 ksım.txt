@@ -1,0 +1,28 @@
+2:14
+
+M:2
+
+diş üstü çapı:32 Do=M*(z+2)
+
+Eksen çapı: M*z:28
+karşılık dişlisi=i*14=4x14-56
+
+i=iletim oranı
+
+Çd=gd/i=1400/4=350
+Çıkış devri istenen 350  RPM
+
+Eksenler arası=(Z1+Z2)*M/2
+(14+56)*2/2=70
+
+ÖDEV
+gamak
+yılmaz redüktör(katalogları indir serilerin hepsine bak)
+pdf
+
+sonsuz dişli mekanizmalrı(worm drive)
+
+sac tasarim
+saca kulak eklemeyi dene
+
++2 ÖDEV

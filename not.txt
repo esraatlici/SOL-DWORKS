@@ -1,0 +1,17 @@
+3 kademeli mil
+caplar 40 30 20
+milin toplam uzunluğu 300mm
+20 mm capta 40mm derinliğinde M20diş var
+verilmeyen tüm ölçüler serbest
+mili çiz teknik resim kurallarına göre ölçülendiriniz
+sınavda sorar
+
+
+
+
+
+
+SORU 2
+2 kademeli flanşın büyük çapı 300 küçük çapı 100 kalınlığı 40 iç çapı ise 60mm dir
+çap 220 üzerinde 12 adet M12X1.75 boydan boya kılavuzlu delik bulunmaktardır çap 160 
+üzerinde 6 adet M8 alyan başlı civata yuvası bulunmaktadır verilmeyen ölçüler serbest olacak şekilde çiziniz

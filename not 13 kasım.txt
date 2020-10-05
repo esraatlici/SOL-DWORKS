@@ -1,0 +1,8 @@
+3 kademeli flanş kalınlıklar 4, 40, 4,
+çaplar 200,400,200
+iç çap 100
+çap 300 üzerinde 12 boydan boya M12 açılmıştır 
+çap 240 üzerinde 8 adet M12 alyan başlı civata 
+yuvası açılmıştır
+en büyük çapta 2x45 pah vardır
+
